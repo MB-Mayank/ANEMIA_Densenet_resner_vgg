@@ -1,0 +1,62 @@
+/.venv
+/1_efficientnet_with_imagenet_pretrained_weights.ipynb
+/2-efficientnetB0_Custom_dataset.ipynb
+/92-mobilenetv3-glaucoma-detection.ipynb
+/97-5-acc-tensorflow.ipynb
+/Accuracy.png
+/alexnet.ipynb
+/AnemiC dataset
+/augment.ipynb
+/best_model.h5
+/car-vs-bike-detection-summer-24.ipynb
+/classification-model-lenet-and-alexnet-on-cifar10 (1).ipynb
+/classifications-using-resnet-from-scratch.ipynb
+/class_schedule_with_classification.xlsx
+/class_schedule_with_extra_classes.xlsx
+/comparison_table.png
+/comparison_table_poppins.png
+/comparison_table_poppins_aligned.png
+/dataset anemia
+/DenseNet161_weights.pth
+/EfficientNet.ipynb
+/efficientnetb0-and-mobilenet-v3-models.ipynb
+/efficientnetb3-cnn-implementation-keras.ipynb
+/efficientnetB3.h5
+/efficientnetv3.ipynb
+/end-to-end-image-classification-of-multiple-models.ipynb
+/ensemble-nn-vgg16-resnet50-inceptionv3.ipynb
+/Ensemble_weights.pth
+/Final
+/Fingernails
+/flow.html
+/gan.ipynb
+/generate-realistic-human-face-using-gan.ipynb
+/ghana
+/Humans
+/image-classification-using-resnet-densenet.ipynb
+/image_data.csv
+/insect-classification-using-cnn-mobilenetv3.ipynb
+/logs
+/Loss.png
+/merged_data.csv
+/mobilenetv3 97.5 f1.html
+/mobilenetv3 result 97.html
+/mobilenetv3-large-model-f1score-98.ipynb
+/mobilenetv3-mammals-image-classification.ipynb
+/mobilenetv3-result.html
+/my_keras_model.h5
+/my_model.keras
+/Palm
+/requirment.txt
+/ResNet152_weights.pth
+/saved_models
+/temp
+/tenp
+/tinyimagenet__ensemble copy.ipynb
+/tinyimagenet__ensemble.html
+/tinyimagenet__ensemble.ipynb
+/trial.ipynb
+/VGG19_bn_weights.pth
+/wild-cats-100-densenet-resnet-vgg16-xception.ipynb
+/Working
+/xception-inception-resnet-vgg-mobilenet-densenet.ipynb
